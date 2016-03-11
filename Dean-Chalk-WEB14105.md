@@ -7,7 +7,7 @@
 
 **Unit Code:** WEB14105
 
-[**GitHub Link**](https://github.com/deanlc/SharingIsCaring)
+[**Markdown GitHub Link**](https://github.com/deanlc/SharingIsCaring/blob/gh-pages/Dean-Chalk-WEB14105.md)
 
 ##Introduction
 So far in this term we have chosen a cause, constructed a research plan and content stratergy. 
