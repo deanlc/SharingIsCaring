@@ -85,7 +85,7 @@ span.highlight {
 }
 
 .one {
-    background-image: url("/images/apple.jpg");
+    background-image: url("/SharingIsCaring/images/apple.jpg");
     background-position: center;
 }
 .two {
@@ -93,7 +93,7 @@ span.highlight {
 }
 
 .three {
-    background-image: url("/images/sanb.png");
+    background-image: url("/SharingIsCaring/images/sanb.png");
     background-position: center right;
     font-size: 30;
 }
