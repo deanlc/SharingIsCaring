@@ -1,0 +1,117 @@
+html, body
+{
+    padding: 0;
+    background-color: #101010;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: whitesmoke;
+}
+
+
+#arrow {
+    width: 20px;
+    margin-top: 50px;
+}
+
+
+.text {
+    color: whitesmoke;
+    text-align: center;
+    font-size: 30;
+    width: 100%;
+    height: 100%;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 25%;
+}
+
+#words {
+    margin-top: 25%;
+    width: 100%;
+    height: 100%;
+}
+
+#wrapper
+{
+    height: 100%;
+    min-height: 100%;
+}
+
+.white 
+{
+    color: #101010;
+    background-color: whitesmoke;
+}
+
+.black 
+{
+    color: whitesmoke;
+    background-color: #101010;
+}
+
+.intro2 {
+    color: #101010;
+}
+
+.trigger1 {
+    margin-top: 5%;
+}
+
+.full {
+    height: 100%;
+    width: 100%;
+    background-color: #101010;
+}
+
+/*ScrollMagic Stuff*/
+
+#pinContainer {
+		width: 100%;
+		height: 100%;
+		overflow: hidden;
+	}
+	.panel {
+		height: 100%;
+		width: 100%;
+		position: absolute;
+	}
+
+span.highlight {
+    background-color: black;
+}
+
+.shooter {
+    width: 60%;
+}
+
+.one {
+    background-image: url("/images/apple.jpg");
+    background-position: center;
+}
+.two {
+    background-color: #101010;
+}
+
+.three {
+    background-image: url("/images/sanb.png");
+    background-position: center right;
+    font-size: 30;
+}
+
+#words {
+    margin-left: 20%;
+    margin-right: 25%;
+    margin-top: 18%;
+}
+
+.four {
+    background-color: #101010;
+}
+
+#words2 {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 25%;
+}
+
+/*The FBI has a court order demanding that Apple helps unlock an iPhone used by the gunman behind the San Bernardino terror attack in 2015, Syed Rizwan Farook. Farook and his wife killed a total of 14 people in the California city last December before the two of them were fatally shot by police.*/
