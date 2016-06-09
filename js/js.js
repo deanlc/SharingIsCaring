@@ -13,6 +13,35 @@ $(function () {
 			})
 			.setPin("#pinContainer")
 			.setTween(wipeAnimation)
-//			.addIndicators() 
 			.addTo(controller);
 	});
+
+
+// build scene
+$(function () { 
+    
+    // init controller
+	var controller = new ScrollMagic.Controller();
+    
+		var scene = new ScrollMagic.Scene({
+							triggerElement: "#trigger1"
+						})
+						.setTween("#animate1", 1, {scale: 1.2}) // trigger a TweenMax.to tween
+						.addTo(controller);
+    
+    var controller = new ScrollMagic.Controller();
+    
+		var scene = new ScrollMagic.Scene({
+							triggerElement: "#trigger1"
+						})
+						.setTween("#animate2", 2, {scale: 1.2}) // trigger a TweenMax.to tween
+						.addTo(controller);
+    
+    var controller = new ScrollMagic.Controller();
+    
+		var scene = new ScrollMagic.Scene({
+							triggerElement: "#trigger1"
+						})
+						.setTween("#animate3", 3, {scale: 1.2}) // trigger a TweenMax.to tween
+						.addTo(controller);
+});
