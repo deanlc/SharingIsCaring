@@ -1,10 +1,6 @@
 html, body
 {
-    padding: 0;
-    background-color: #101010;
-    font-family: 'Roboto', sans-serif;
-    font-size: 20px;
-    color: whitesmoke;
+    padding: 0; background-color: #101010; font-family: 'Roboto', sans-serif; font-size: 20px; color: whitesmoke;
 }
 
 ::-webkit-scrollbar { 
@@ -22,8 +18,7 @@ html, body
 }
 
 .logo {
-    width: 75px;
-    max-width: 150;
+    width: 75px; max-width: 150;
 }
 
 .dark {
@@ -31,13 +26,11 @@ html, body
 }
 
 #arrow {
-    width: 20px;
-    margin-top: 50px;
+    width: 20px; margin-top: 50px;
 }
 
 .small {
-    font-size: 14px;
-    color: grey;
+    font-size: 14px; color: grey;
 }
 
 #table {
@@ -45,38 +38,26 @@ html, body
 }
 
 .text {
-    color: whitesmoke;
-    text-align: center;
-    font-size: 30;
-    width: 100%;
-    height: 100%;
-    margin-left: 50px;
-    margin-right: 50px;
-    margin-top: 25%;
+    color: whitesmoke; text-align: center; font-size: 30; width: 100%; height: 100%; margin-left: 50px; margin-right: 50px; margin-top: 25%;
 }
 
 #words {
-    margin-top: 25%;
-    width: 100%;
-    height: 100%;
+    margin-top: 25%; width: 100%; height: 100%;
 }
 
 #wrapper
 {
-    height: 100%;
-    min-height: 100%;
+    height: 100%; min-height: 100%;
 }
 
 .white 
 {
-    color: #101010;
-    background-color: whitesmoke;
+    color: #101010; background-color: whitesmoke;
 }
 
 .black 
 {
-    color: whitesmoke;
-    background-color: #101010;
+    color: whitesmoke; background-color: #101010;
 }
 
 .intro2 {
@@ -88,34 +69,23 @@ html, body
 }
 
 .full {
-    height: 100%;
-    width: 100%;
-    background-color: #101010;
+    height: 100%; width: 100%; background-color: #101010;
 }
 
 .fullwhite {
-    height: 120%;
-    width: 100%;
-    background-color: whitesmoke;
+    height: 120%; width: 100%; background-color: whitesmoke;
 }
 
 .fullfinal {
-    height: 70%;
-    width: 100%;
-    background-color: #101010;
+    height: 70%; width: 100%; background-color: #101010;
 }
 
 /*ScrollMagic Stuff*/
 
 #pinContainer {
-		width: 100%;
-		height: 100%;
-		overflow: hidden;
-	}
-	.panel {
-		height: 100%;
-		width: 100%;
-		position: absolute;
+		width: 100%; height: 100%; overflow: hidden;
+	} .panel {
+		height: 100%; width: 100%; position: absolute;
 	}
 
 span.highlight {
@@ -127,24 +97,18 @@ span.highlight {
 }
 
 .one {
-    background-image: url("/SharingIsCaring/images/apple.jpg");
-    background-position: center;
+    background-image: url("/SharingIsCaring/images/apple.jpg"); background-position: center;
 }
 .two {
     background-color: #101010;
 }
 
 .three {
-    background-image: url("/SharingIsCaring/images/sanb.png");
-    background-position: center right;
-    font-size: 30;
-    background-color: #101010;
+    background-image: url("/SharingIsCaring/images/sanb.png"); background-position: center right; font-size: 30; background-color: #101010;
 }
 
 #words {
-    margin-left: 20%;
-    margin-right: 25%;
-    margin-top: 18%;
+    margin-left: 20%; margin-right: 25%; margin-top: 18%;
 }
 
 .four {
@@ -152,9 +116,7 @@ span.highlight {
 }
 
 #words2 {
-    width: 50%;
-    margin-left: 25%;
-    margin-top: 25%;
+    width: 50%; margin-left: 25%; margin-top: 25%;
 }
 
 /*The FBI has a court order demanding that Apple helps unlock an iPhone used by the gunman behind the San Bernardino terror attack in 2015, Syed Rizwan Farook. Farook and his wife killed a total of 14 people in the California city last December before the two of them were fatally shot by police.*/
